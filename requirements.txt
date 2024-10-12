@@ -181,3 +181,4 @@ Pydantic==2.5.2 ; python_full_version == "3.11.9"
 langchain-core==0.3.0 ; python_full_version == "3.11.9"
 langchain-openai==0.2.0 ; python_full_version == "3.11.9"
 langchain-openai
+langchain-teddynote
