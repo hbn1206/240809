@@ -6,6 +6,9 @@ from langchain_teddynote.prompts import load_prompt
 from dotenv import load_dotenv
 import glob
 import settings
+import sys
+sys.path.append('/path/to/langchain_teddynote')
+
 
 # API KEY 정보로드
 #load_dotenv()
